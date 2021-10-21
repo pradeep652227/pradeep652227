@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradeep652227
 - 👀 I’m interested in ... programming, learning new things then implementing them
 - 🌱 I’m currently learning ... DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for ... internships
 - 📫 How to reach me ... via Linked in, mail( Check my profile for links)
 
 <!---
