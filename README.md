@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @
 - 👀 I’m interested in ... programming, learning new things then implementing them
-- 🌱 I’ve experience in building full stack web development applications
+- 🌱 I’ve experience in building full-stack web development applications
 - 💞️ I’m looking for ... full-time/part-time/intern jobs
 - 📫 How to reach me ... via Linked in, mail( Check my profile for links)
 
