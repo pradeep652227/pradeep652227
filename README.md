@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-website-frontend-six.vercel.app/](https://portfolio-website-frontend-six.vercel.app/)
 
 - 💬 Ask me about **NodeJS, MongoDB, Backend Development, ReactJS**
-
+- - 📫 How to reach me **pradeepgaur205@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-xvRAwofX4BrRhOhS0n056LJDS7fCDjM/view?usp=drive_link](https://drive.google.com/file/d/1-xvRAwofX4BrRhOhS0n056LJDS7fCDjM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
